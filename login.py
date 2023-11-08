@@ -86,8 +86,8 @@ class Login(UserControl):
         self.page.theme_mod=ThemeMode.DARK
         self.page.window_max_height=900
         self.page.window_height=900
-        self.page.window_width=470
-        self.page.window_max_width=470
+        self.page.window_width=700
+        self.page.window_max_width=700
    
         
         def LoginBoutton(res):
