@@ -1,7 +1,7 @@
 import flet as ft 
 from flet import *
-from page.login import *
-from page.chat import *
+from login import *
+from chat import *
 
 
 
