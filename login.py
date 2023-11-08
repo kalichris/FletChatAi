@@ -1,7 +1,7 @@
 import flet as ft 
 from flet import *
 from flet_core.control_event import ControlEvent
-from page.chat  import *                  
+from chat  import *                  
 from math import pi 
 import time
 import random
